@@ -1,0 +1,10 @@
+com\johnabbott\simple\configuration\DatabaseConfiguration.class
+com\johnabbott\simple\service\UserService.class
+com\johnabbott\simple\dao\HibernateUserDaoImpl.class
+com\johnabbott\simple\configuration\WebAppInitializer.class
+com\johnabbott\simple\configuration\WebMvcConfig.class
+com\johnabbott\simple\service\UserServiceImpl.class
+com\johnabbott\simple\dao\UserDaoImpl.class
+com\johnabbott\simple\dao\UserDao.class
+com\johnabbott\simple\model\UserEntity.class
+com\johnabbott\simple\controller\UserController.class
